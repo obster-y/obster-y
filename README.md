@@ -34,6 +34,6 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/250px-Arch_Linux_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
 
-![Obster-Y's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=obster-y&langs_count=10&hide=HTML&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))![Obster-Y's github stats](https://github-readme-stats.vercel.app/api?username=obster-y&show_icons=true&hide_border=true&include_all_commits=true)
+![Obster-Y's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=obster-y&langs_count=10&exclude_repo=obster-y.github.io&hide_border=true&layout=compact&custom_title=Most%10Used%20Languages%20(Top%2010))![Obster-Y's github stats](https://github-readme-stats.vercel.app/api?username=obster-y&show_icons=true&hide_border=true&include_all_commits=true)
 
 - 📝 See my website: [A useless site](https://obster-y.github.io) to get more info.
